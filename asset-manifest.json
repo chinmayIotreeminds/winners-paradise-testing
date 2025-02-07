@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a69327e0.css",
+    "main.js": "/static/js/main.6ba14e86.js",
+    "static/js/453.806adc68.chunk.js": "/static/js/453.806adc68.chunk.js",
+    "static/media/sideImage.png": "/static/media/sideImage.078bd8998f60552469f9.png",
+    "static/media/robo 1 (1).png": "/static/media/robo 1 (1).a5d4a29074ec26f52f66.png",
+    "static/media/splashScreen.png": "/static/media/splashScreen.9e0498f502f6b28e5ff1.png",
+    "static/media/robo 1 (3).png": "/static/media/robo 1 (3).da7ef76b3f07e1664bf8.png",
+    "static/media/backImage.jpg": "/static/media/backImage.04a0abe6708609cb32da.jpg",
+    "static/media/jpg": "/static/media/53a655a3da5282a37b6bc80af6360316.ab909730097bd596e938.jpg",
+    "static/media/candleStick.png": "/static/media/candleStick.3c6d710f1bada52c9250.png",
+    "static/media/logo1.png": "/static/media/logo1.309521de001468b3bd6e.png",
+    "static/media/algologo.png": "/static/media/algologo.92c0d52c4b7bc2d426b3.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Algo-Achievers-Logo_009600960_38721 1 (1).png": "/static/media/Algo-Achievers-Logo_009600960_38721 1 (1).6059b18291121f770cee.png",
+    "static/media/logohere.png": "/static/media/logohere.d47f49a15f735a25ae51.png",
+    "static/media/info.png": "/static/media/info.0cb39debd66439b98120.png",
+    "index.html": "/index.html",
+    "main.a69327e0.css.map": "/static/css/main.a69327e0.css.map",
+    "main.6ba14e86.js.map": "/static/js/main.6ba14e86.js.map",
+    "453.806adc68.chunk.js.map": "/static/js/453.806adc68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69327e0.css",
+    "static/js/main.6ba14e86.js"
+  ]
+}
